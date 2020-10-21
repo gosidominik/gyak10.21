@@ -1,0 +1,23 @@
+{
+  "name": "gyak10.21",
+  "version": "1.0.0",
+  "description": "okt. 21.-i gyakorlat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gosidominik/gyak10.21.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gosidominik/gyak10.21/issues"
+  },
+  "homepage": "https://github.com/gosidominik/gyak10.21#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "table": "^6.0.3"
+  }
+}
